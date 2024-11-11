@@ -1,0 +1,22 @@
+h1 {
+  border: 3px solid rgba(90, 82, 82, 0.899);
+  margin: 0 150px 25px;
+  border-radius: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+h2 {
+  border: 2px solid rgba(90, 82, 82, 0.59);
+  margin: 0 150px;
+  border-radius: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+span {
+  color: rgba(104, 22, 22, 0.703);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+}
+
+span:hover {
+  color: brown;
+}
